@@ -1,0 +1,8 @@
+[package]
+name = "test_rust"
+version = "0.1.0"
+authors = ["transhap <fet.prashantsingh@gmail.com>"]
+
+[dependencies]
+
+rand = "0.4.0"
